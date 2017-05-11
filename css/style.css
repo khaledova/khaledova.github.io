@@ -21,8 +21,8 @@ h2{
 }
 
 
-p.normal {
-    font-variant: normal;
+p.capitalize {
+    text-transform: capitalize;
 }
 h3{
 font-size: 18px;
